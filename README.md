@@ -1,6 +1,6 @@
 # E-commerce Sales Analysis
 
-Learning project using SQL to analyze e-commerce data: sales, customers, products, and order performance.
+Learning project: analyzing e-commerce sales, customers, products, and orders using SQL to develop practical data analytics skills.
 
 ## Goals
 
