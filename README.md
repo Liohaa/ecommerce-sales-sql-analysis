@@ -1,15 +1,14 @@
 # E-commerce Sales Analysis
 
-This project analyzes sales data from an online store.  
-We use SQL to answer important business questions.
+Learning project using SQL to analyze e-commerce data: sales, customers, products, and order performance.
 
-## Goal
+## Goals
 
 To help the business understand:  
 - how much it sells,  
 - who the customers are,  
 - how well orders are delivered,  
-- and which products generate the most revenue and profit.
+- and which products, brands generate the most revenue and profit.
 
 This can help the company improve sales, marketing, and products.
 
