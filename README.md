@@ -1,6 +1,6 @@
 # E-commerce Sales Analysis
 
-Analyzing e-commerce data with SQL to explore sales performance, customer behavior, and product trends.
+Data analysis project using SQL: exploring e-commerce sales, customer behavior, product trends, and order performance.
 
 ## Goals
 
