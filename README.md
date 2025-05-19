@@ -28,7 +28,7 @@ This can help the company improve sales, marketing, and products.
 ## Datasets
 
 All data is stored in the `data/` folder.  
-Here are the main tables:
+These are the next tables:
 
 `users.csv`: Info about customers (`country`, `state`, `city`, `gender`, etc.) — basic demographic and location data of customers  
 `products.csv`: Info about products (`category`, `brand`, `retail_price`, `cost`, etc.) — key product details including pricing and classification  
