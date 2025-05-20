@@ -1,6 +1,6 @@
 ### Summary of the E-commerce Sales Analysis Project
 
-This report summarizes key findings from the sales data analysis. Visualizations can be found in the `screenshots/` folder, and the interactive dashboard is included in the Power BI file.
+This report summarizes key findings from the sales data analysis. Visualizations can be found in the `screenshots/` folder, and the interactive dashboard is included in the Power BI dashboard file (dashboard.pbix) which is located in the `powerbi/` folder.
 
 ---
 
