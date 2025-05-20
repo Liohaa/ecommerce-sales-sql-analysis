@@ -20,10 +20,24 @@ This can help the company improve sales, marketing, and products.
 - `04_product_analysis/`: Top categories, top brands, top products and margin  
 - `data/`: Raw CSV files used in this project
 
+## Dashboard and Visualizations
+
+The interactive Power BI dashboard (`Dashboard.pbix`) is located in the `powerbi/` folder.  
+Key screenshots of each report page  is located in the `powerbi/screenshots/` folder.
+
+You can explore visual insights from:
+- General sales metrics
+- User behavior and new customer trends
+- Order performance and return patterns
+- Product and brand profitability
+
+📄 For main insights, see `Summary.md`
+
 ## Tools
 
 - SQL (PostgreSQL syntax)  
 - DB Browser for SQLite or DBeaver (optional)
+- Power BI Desktop
 
 ## Datasets
 
