@@ -4,13 +4,14 @@ Data analysis project using SQL and Power BI: exploring e-commerce sales, custom
 
 ## Goals
 
-To help the business understand:  
-- how much it sells,  
-- who the customers are,  
-- how well orders are delivered,  
-- and which products, brands generate the most revenue and profit.
+This project helps to better understand key aspects of e-commerce performance, such as:
 
-This can help the company improve sales, marketing, and products.
+- sales results – total number of orders, revenue, and profit
+- customer profile – who the buyers are and where they are from
+- order process – how often orders are returned or canceled
+- product and brand results – which items bring the most money
+
+These insights can support better decisions in marketing, product planning, and overall business strategy.
 
 ## Project Structure
 
