@@ -1,6 +1,6 @@
 # E-commerce Sales Analysis
 
-Data analysis project using SQL: exploring e-commerce sales, customer behavior, product trends, and order performance.
+Data analysis project using SQL and Power BI: exploring e-commerce sales, customer behavior, product trends, and order performance.
 
 ## Goals
 
