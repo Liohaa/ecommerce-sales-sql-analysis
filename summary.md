@@ -11,8 +11,7 @@ This report summarizes key findings from the sales data analysis. Visualizations
 - There is seasonality in sales, with peak profit observed in Q4 2023 due to holiday sales, followed by a noticeable drop after.
 - The average order value (AOV) by category varies, but overall remains stable in the range of 86–90, regardless of the total number of orders.
 
-general_metrics.PNG](https://github.com/Liohaa/ecommerce-sales-sql-analysis/blob/screenshots/screenshots/summary.md)
-
+For example, see file: general_metrics.png
 
 ---
 
@@ -23,7 +22,7 @@ general_metrics.PNG](https://github.com/Liohaa/ecommerce-sales-sql-analysis/blob
 - There is rapid growth in new user registrations and their orders each month.
 - December saw the peak in new user registrations: 52% of new users placed an order, but less than 30% of those orders were successful.
 
-![User Analysis](poverbi/screenshots/user_analysis.png)
+For example, see file: user_analysis.png
 
 ---
 
@@ -34,7 +33,7 @@ general_metrics.PNG](https://github.com/Liohaa/ecommerce-sales-sql-analysis/blob
 - Countries like Spain, Japan, and the UK have significantly higher return rates, requiring further investigation.
 - Differences in return rates by demographic groups (e.g., gender, age) are minor and not critical.
 
-![Order Analysis](poverbi/screenshots/order_analysis.png)
+For example, see file: order_analysis.png
 
 ---
 
@@ -45,4 +44,4 @@ general_metrics.PNG](https://github.com/Liohaa/ecommerce-sales-sql-analysis/blob
 - In the US, top brands vary from quarter to quarter — leadership is not stable.
 - Profit margins vary across countries and products. Asian countries show the highest average margin, indicating opportunities for income growth and margin optimization.
 
-![Product Analysis](poverbi/screenshots/product_analysis.png)
+For example, see file: product_analysis.png
