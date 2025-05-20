@@ -11,7 +11,7 @@ This report summarizes key findings from the sales data analysis. Visualizations
 - There is seasonality in sales, with peak profit observed in Q4 2023 due to holiday sales, followed by a noticeable drop after.
 - The average order value (AOV) by category varies, but overall remains stable in the range of 86–90, regardless of the total number of orders.
 
-![General Metrics](./screenshots/general_metrics.png)
+![General Metrics](./poverbi/screenshots/general_metrics.png)
 
 ---
 
