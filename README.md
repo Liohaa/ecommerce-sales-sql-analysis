@@ -20,6 +20,9 @@ These insights can support better decisions in marketing, product planning, and 
 - `03_order_analysis/`: Return rate by country, users groups, category
 - `04_product_analysis/`: Top categories, top brands, top products and margin  
 - `data/`: Raw CSV files used in this project
+- `power_bi/`: Interactive dashboard file in `.pbix` format. You can download and explore the full Power BI dashboard used in this project.
+- `screenshots/`: Exported visualizations used in the report summary. Each screenshot corresponds to a key analysis block and is referenced in the summary report.
+- `summary.md`: Final report with key findings. Links to screenshots are included for clarity.
 
 ## Dashboard and Visualizations
 
