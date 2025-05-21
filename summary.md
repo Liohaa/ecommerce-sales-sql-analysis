@@ -1,6 +1,6 @@
 ### Summary of the E-commerce Sales Analysis Project
 
-This report summarizes key findings from the sales data analysis. Visualizations can be found in the `screenshots/` folder, and the interactive dashboard is included in the Power BI dashboard file (dashboard.pbix) which is located in the `powerbi/` folder.
+This report summarizes key findings from the sales data analysis. Visualizations can be found in the `powerbi/screenshots/` folder, and the interactive dashboard is included in the Power BI dashboard file (dashboard.pbix) which is located in the `powerbi/` folder.
 
 ---
 
@@ -11,7 +11,7 @@ This report summarizes key findings from the sales data analysis. Visualizations
 - There is seasonality in sales, with peak profit observed in Q4 2023 due to holiday sales, followed by a noticeable drop after.
 - The average order value (AOV) by category varies, but overall remains stable in the range of 86–90, regardless of the total number of orders.
 
-For example, see file: general_metrics.png
+![General Metrics](./screenshots/general_metrics.png)
 
 ---
 
