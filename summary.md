@@ -22,7 +22,7 @@ This report summarizes key findings from the sales data analysis. Visualizations
 - There is rapid growth in new user registrations and their orders each month.
 - December saw the peak in new user registrations: 52% of new users placed an order, but less than 30% of those orders were successful.
 
-For example, see file: user_analysis.png
+![User Analysis](powerbi/screenshots/user_analysis.png)
 
 ---
 
@@ -33,7 +33,7 @@ For example, see file: user_analysis.png
 - Countries like Spain, Japan, and the UK have significantly higher return rates, requiring further investigation.
 - Differences in return rates by demographic groups (e.g., gender, age) are minor and not critical.
 
-For example, see file: order_analysis.png
+![Order Analysis](powerbi/screenshots/order_analysis.png)
 
 ---
 
@@ -44,4 +44,4 @@ For example, see file: order_analysis.png
 - In the US, top brands vary from quarter to quarter — leadership is not stable.
 - Profit margins vary across countries and products. Asian countries show the highest average margin, indicating opportunities for income growth and margin optimization.
 
-For example, see file: product_analysis.png
+![Product Analysis](powerbi/screenshots/product_analysis.png)
