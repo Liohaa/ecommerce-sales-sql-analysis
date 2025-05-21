@@ -27,7 +27,7 @@ These insights can support better decisions in marketing, product planning, and 
 ## Dashboard and Visualizations
 
 The interactive Power BI dashboard (`Dashboard.pbix`) is located in the `powerbi/` folder.  
-Key screenshots of each report page  is located in the `screenshots/` folder.
+Key screenshots of each report page  is located in the `powerbi/screenshots/` folder.
 
 You can explore visual insights from:
 - General sales metrics
@@ -35,12 +35,11 @@ You can explore visual insights from:
 - Order performance and return patterns
 - Product and brand profitability
 
-📄 For main insights, see `Summary.md`
+📄 For main insights, see `summary.md`
 
 ## Tools
 
 - SQL (PostgreSQL syntax)  
-- DB Browser for SQLite or DBeaver (optional)
 - Power BI Desktop
 
 ## Datasets
